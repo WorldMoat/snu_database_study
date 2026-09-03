@@ -1,2 +1,2 @@
 # snu_database_study
-Seoul National University 2nd semester 
+서울대학교 데이터베이스 수업
